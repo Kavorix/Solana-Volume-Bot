@@ -1,6 +1,6 @@
 {
-  "name": "solana-sniper-bot",
-  "author": "Filip Dundjer",
+  "name": "solana-volume-bot",
+  "author": "kavorix",
   "scripts": {
     "start": "ts-node index.ts",
     "gather": "ts-node gather.ts",
